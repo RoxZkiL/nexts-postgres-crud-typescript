@@ -1,7 +1,3 @@
-import React from 'react'
+import New from "../new";
 
-export default function detailPage() {
-  return (
-    <div>Detailed View</div>
-  )
-}
+export default New;
