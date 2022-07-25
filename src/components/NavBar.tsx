@@ -17,8 +17,8 @@ export default function NavBar() {
     <Heading paddingLeft={4} cursor="pointer" size='md' onClick={() => router.push("/")}>Task App</Heading>
   </Box>
   <Spacer />
-  <ButtonGroup gap='2' paddingRight={4}>
-    <Button colorScheme="black" color="white" variant='outline' onClick={() => router.push("/tasks/new")}>New Task</Button>
+  <ButtonGroup gap='2' paddingRight={6}>
+    <Button backgroundColor="white" colorScheme="gray" color="black" variant='outline' onClick={() => router.push("/tasks/new")}>New Task</Button>
   </ButtonGroup>
 </Flex>
   )
