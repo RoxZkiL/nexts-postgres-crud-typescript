@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<hr/>
+
+This project is fully responsive for mobile devices :)!
+
+<hr/>
+
 ## Getting Started
 
 First, run the development server:
